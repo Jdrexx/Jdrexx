@@ -8,8 +8,8 @@
 
 | Area | Tools |
 |------|-------|
-| **AI-powered document processing** | [Scan → Excel](https://github.com/Jdrexx/scanexcel), [RAG over notes](https://github.com/Jdrexx/knowledgeassistant), [Architectural plan review](https://github.com/Jdrexx/ArchPlanReview) |
-| **Business operations** | [Lead capture](https://github.com/Jdrexx/serviceassistant), [Expense tracking](https://github.com/Jdrexx/ExpenseTracker), [Job CRM](https://github.com/Jdrexx/jobcrm), [Invoice workflow](https://github.com/Jdrexx/ExpenseTracker) |
+| **AI-powered document processing** | [Scan → Excel](https://github.com/Jdrexx/scanexcel), [RAG over notes](https://github.com/Jdrexx/knowledgeassistant), [PaperTrail document intelligence](https://github.com/Jdrexx/papertrail), [Architectural plan review](https://github.com/Jdrexx/ArchPlanReview) |
+| **Business operations** | [Lead capture](https://github.com/Jdrexx/serviceassistant), [Expense tracking](https://github.com/Jdrexx/ExpenseTracker), [Job CRM](https://github.com/Jdrexx/jobcrm) |
 | **Career tools** | [Resume analyzer](https://github.com/Jdrexx/Copilot), [OSS contribution finder](https://github.com/Jdrexx/oss-contribution-finder) |
 | **AI & automation** | [Agent workflow builder](https://github.com/Jdrexx/ai-agent-workflow-builder), [Domain OSINT](https://github.com/Jdrexx/deep-search-osint), [Hermes memory cache](https://github.com/Jdrexx/hermes-memory-cache) |
 | **Web presence** | [Personal portfolio](https://github.com/Jdrexx/personalwebsite), [WordPress on Railway](https://github.com/Jdrexx/jdreksler-wordpress) |
