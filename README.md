@@ -13,6 +13,6 @@ I build local-first tools and infrastructure for AI agents — document intellig
 - [Deep Search OSINT](https://github.com/Jdrexx/deep-search-osint) — passive domain reconnaissance toolkit
 - [Career Copilot](https://github.com/Jdrexx/Copilot) — resume vs. job description analyzer with ATS keyword scoring
 
-**Stack:** Python, Django, FastAPI, JavaScript/React, SQLite, Docker, Hermes Agent
+**Stack:** Python, Django, FastAPI, JavaScript, SQLite, Hermes Agent
 
 📍 Kenmore, WA  ·  📧 jondreksler369@gmail.com  ·  🌐 [jdreksler.com](https://jdreksler.com)
