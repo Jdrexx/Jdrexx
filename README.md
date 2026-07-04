@@ -1,25 +1,18 @@
-## 👋 I'm Jon — builder of local-first AI tools
+### Hi, I'm Jon Dreksler 👋
 
-**Project manager turned developer** crafting practical software that runs on your machine, respects your privacy, and solves real business problems. I believe the best tools are the ones you can run without asking for permission.
+I build local-first tools and infrastructure for AI agents — document intelligence pipelines, automated service business workflows, and portable agent environments. My work lives at the intersection of practical automation and self-sovereign AI: tools that run on your hardware with your data.
 
----
+**What I'm working on:**
+- [PaperTrail](https://github.com/Jdrexx/papertrail) — local-first document intelligence platform (upload, extract, search, analyze)
+- [Portable Hermes](https://github.com/Jdrexx/hermes-portable) — run Hermes Agent from a USB stick, zero host install
+- [AI Infra Business](https://github.com/Jstallings8686/ai-infra-business) — commercial AI phone receptionist, meeting transcription, cyber-hygiene services
 
-### 🧰 What I build
+**Notable projects:**
+- [SocialMediaMVP](https://github.com/Jdrexx/SocialMediaMVP) — full-stack social platform with real-time chat, WebRTC, auth, moderation
+- [ArchPlanReview](https://github.com/Jdrexx/ArchPlanReview) — architectural plan set search with OCR and FTS5
+- [Deep Search OSINT](https://github.com/Jdrexx/deep-search-osint) — passive domain reconnaissance toolkit
+- [Career Copilot](https://github.com/Jdrexx/Copilot) — resume vs. job description analyzer with ATS keyword scoring
 
-| Area | Tools |
-|------|-------|
-| **AI-powered document processing** | [Scan → Excel](https://github.com/Jdrexx/scanexcel), [RAG over notes](https://github.com/Jdrexx/knowledgeassistant), [PaperTrail document intelligence](https://github.com/Jdrexx/papertrail), [Architectural plan review](https://github.com/Jdrexx/ArchPlanReview) |
-| **Business operations** | [Lead capture](https://github.com/Jdrexx/serviceassistant), [Expense tracking](https://github.com/Jdrexx/ExpenseTracker), [Job CRM](https://github.com/Jdrexx/jobcrm) |
-| **Career tools** | [Resume analyzer](https://github.com/Jdrexx/Copilot), [OSS contribution finder](https://github.com/Jdrexx/oss-contribution-finder) |
-| **AI & automation** | [Agent workflow builder](https://github.com/Jdrexx/ai-agent-workflow-builder), [Domain OSINT](https://github.com/Jdrexx/deep-search-osint), [Hermes memory cache](https://github.com/Jdrexx/hermes-memory-cache) |
-| **Web presence** | [Personal portfolio](https://github.com/Jdrexx/personalwebsite), [WordPress on Railway](https://github.com/Jdrexx/jdreksler-wordpress) |
+**Stack:** Python, Django, FastAPI, JavaScript/React, SQLite, Docker, Hermes Agent
 
----
-
-### 🔧 Stack
-
-`Python` · `FastAPI` · `Django` · `React` · `TypeScript` · `PostgreSQL` · `SQLite` · `Docker` · `Ollama` · `Hermes Agent`
-
----
-
-<sub>Everything I build is local-first. Your data stays yours.</sub>
+📍 Kenmore, WA  ·  📧 jondreksler369@gmail.com  ·  🌐 [jdreksler.com](https://jdreksler.com)
