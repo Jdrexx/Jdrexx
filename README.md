@@ -1,18 +1,14 @@
-### Hi, I'm Jon Dreksler 👋
+### Hi, I'm Jon Dreksler
 
-I build local-first tools and infrastructure for AI agents — document intelligence pipelines, automated service business workflows, and portable agent environments. My work lives at the intersection of practical automation and self-sovereign AI: tools that run on your hardware with your data.
+**Technical Implementation & Customer Success | SaaS Onboarding, AI Workflow Automation, Project Delivery**
 
-**What I'm working on:**
-- [PaperTrail](https://github.com/Jdrexx/papertrail) — local-first document intelligence platform (upload, extract, search, analyze)
-- [Portable Hermes](https://github.com/Jdrexx/hermes-portable) — run Hermes Agent from a USB stick, zero host install
-- [AI Infra Business](https://github.com/Jstallings8686/ai-infra-business) — commercial AI phone receptionist, meeting transcription, cyber-hygiene services
+I help customers and operating teams adopt new software and turn manual workflows into reliable, usable systems. Four-plus years leading software rollouts, workflow redesign, client-facing technical projects, and AI-enabled automation - supported by 12+ years in customer-facing operations and a BS in Computer Science (2022).
 
-**Notable projects:**
-- [SocialMediaMVP](https://github.com/Jdrexx/SocialMediaMVP) — full-stack social platform with real-time chat, WebRTC, auth, moderation
-- [ArchPlanReview](https://github.com/Jdrexx/ArchPlanReview) — architectural plan set search with OCR and FTS5
-- [Deep Search OSINT](https://github.com/Jdrexx/deep-search-osint) — passive domain reconnaissance toolkit
-- [Career Copilot](https://github.com/Jdrexx/Copilot) — resume vs. job description analyzer with ATS keyword scoring
+**Featured projects:**
+- [PaperTrail](https://github.com/Jdrexx/papertrail) - Local-first document intelligence: upload, extract, search, and analyze documents with citations. Data pipelines, end to end.
+- [AI Agent Workflow Builder](https://github.com/Jdrexx/ai-agent-workflow-builder) - Define multi-step AI workflows with connected tools, run them locally, and inspect the logs. Configuration-driven automation, not one-off scripts.
+- [Career Copilot](https://github.com/Jdrexx/Copilot) - Resume vs. job-description analyzer: ATS keyword scoring, gap detection, bullet drafting. Built for a real workflow and used daily.
 
-**Stack:** Python, Django, FastAPI, JavaScript, SQLite, Hermes Agent
+Live: https://jdreksler.com
 
-📍 Kenmore, WA  ·  📧 jondreksler369@gmail.com  ·  🌐 [jdreksler.com](https://jdreksler.com)
+📍 Kenmore, WA  ·  📧 jondreksler369@gmail.com
